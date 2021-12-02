@@ -4,7 +4,8 @@ he/him
 
 ##
 
-- Java Learner, 
+- Java Learner,
+- Kotlin Learner, 
 - Problem Solver, 
 - Music Lover, 
 - Coffee Drinker,
