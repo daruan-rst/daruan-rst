@@ -12,9 +12,9 @@ he/him
 - Human being;
  
 ##
-
-- Currently learning Java at [Let's Code](https://letscode.com.br/)
-- May I help you with something? <p> Contact me at [WhatsApp](https://api.whatsapp.com/send?phone=5562984370505), [Telegram](https://t.me/Daruan) or daruan.rst@gmail.com </p>
+- Proud [UnB](https://international.unb.br/) graduate
+- Former [Let's Code](https://letscode.com.br/) student
+- May I help you with something? <p> Contact me at [WhatsApp](https://api.whatsapp.com/send?phone=5562984370505), [Telegram](https://t.me/Daruan), [Linkedin](https://www.linkedin.com/in/daruanrodrigues/) or daruan.rst@gmail.com </p>
 
 
 
